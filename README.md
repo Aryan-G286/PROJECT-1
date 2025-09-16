@@ -1,4 +1,4 @@
 # PROJECT-1
 this is my first git repository
 <br>
-Author-Aryan gupta 
+Author-Aryan gupta (golu)
